@@ -35,7 +35,9 @@ O repositório demonstra como uma pessoa operadora do Direito pode organizar uma
 
 ## Repositório
 
-URL pública: **PENDENTE DE PUBLICAÇÃO NO GITHUB**. Após publicar, substituir esta linha por `https://github.com/<usuario>/caso-ficticio-melina` e informar o mesmo link no Teams, conforme a atividade.
+URL pública: https://github.com/M0vero/caso-ficticio-melina
+
+O mesmo link deve ser informado no envio pelo Teams, conforme a atividade.
 
 ## Histórico Git esperado
 
